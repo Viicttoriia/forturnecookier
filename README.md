@@ -16,11 +16,11 @@ base green - #2b4245
 darker blue - #2b397b
 
 -[] make layout html
-    -[]Entrys
-        -[] box for name 
+    Entrys
+        -[x] box for name 
         -[] box for age 
         -[] box for birth month
-    -[] Results
+    Results
         -[] for name var
         -[] for age var
         -[] for birth var
