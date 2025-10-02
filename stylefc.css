@@ -1,3 +1,10 @@
+/* */
+/* Fortune cookie style sheet */
+/* Victoria Wiley */
+/* For codex Academy week Two*/
+/* */
+/* this styles the whole page */
 html {
   background-color: #2b4245;
+  -webkit-text-fill-color: #eb397b;
 }

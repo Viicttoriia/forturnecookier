@@ -5,6 +5,18 @@ Forturnecookie randomizer project for school
 victoriawiley1992@gmail.com 
 
 # Project NOTES
+
+-[] Add Headnotes to all files 
+    ~~EXAMPLE~~
+"/* */
+/* */
+/* <document Title> */
+/* <author> */
+/* <relation> or <description> */
+/* */
+/* */
+/* */"
+
 -[x] Made read me file for project
 
 -[x] pick color scheme for css stylesheet
