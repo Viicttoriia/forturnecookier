@@ -1,3 +1,10 @@
+/* */
+/* Fortune cookie index.js */
+/* Victoria Wiley */
+/* For codex Academy week Two*/
+/* */
+/* */
+/* */
 /*event listener*/
 document.getElementById(button).addEventListener('click', function() {
     const name = document.getElementById('Name').ariaValueText;
