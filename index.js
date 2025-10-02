@@ -9,12 +9,11 @@
 document.getElementById(button).addEventListener('click', function() {
     const name = document.getElementById('Name').ariaValueText;
     const age = document.getElementById('age').ariaValueText;
-    const Birthmonth = document.getElementById('Birthmonth'),(.ariaValueMin-.ariaValueMax);
     const outputDiv = document.getElementById('fort-output');
 }
 /* var for output */
-if (!Name || !Age || !Birthmonth) {
-    outputDiv.textContent = "Please make slection";
+if (!Name || !Age) {
+    outputDiv.textContent = "Please make slecetion";
     return;
 }
 
