@@ -8,3 +8,7 @@ html {
   background-color: #2b4245;
   -webkit-text-fill-color: #eb397b;
 }
+h1 {
+  text-align: center;
+}
+

@@ -3,7 +3,11 @@
 /* Victoria Wiley */
 /* For codex Academy week Two*/
 /* */
-/* */
+/* function */
+function fortunecookie {
+    let Name = "";
+    let Age = "";
+} 
 /* */
 /*event listener*/
 document.getElementById(button).addEventListener('click', function() {
@@ -13,11 +17,12 @@ document.getElementById(button).addEventListener('click', function() {
 }
 /* var for output */
 if (!Name || !Age) {
-    outputDiv.textContent = "Please make slecetion";
+    outputDiv.textContent = "Please enter selection";
     return;
 }
 
-/* */
+/* log */
+console.log(fortunes); 
 
 /* fortune consts */
 const fortunes = [
