@@ -35,13 +35,20 @@ darker blue - #2b397b
         -[x] box for age 
         -[x] box for birth month
     Results
-        -[] for name var
-        -[] for age var
-        -[] for birth var
+        -[x] for name var
+        -[x] for age var
+        -[x] for birth var - REDACTED
     Conts
         -[x] Fortunes
 
 -[] style layout css
+
+### Important Terms for My Autistic Ass that I really should remember by now.
+
+FUNCTION - A command 
+
+Arguments - 
+
 
 
 
