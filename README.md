@@ -6,6 +6,17 @@ Forturnecookie randomizer project for school
 ## Victoria Wiley
 victoriawiley1992@gmail.com 
 
+## Teacher Notes
+- [] close tags correctly 
+- [] git rid of stray "</main>"
+- [] define function correctly: 'function fortuneCookie(name, age) { }
+- [] Use .value NOT ARIAVALUETEXT and match ids exactly: Name, Age. 
+- [] Add and output element with an id, e.g. <div id ="fort-output"></div>
+- [] Use backticks for template strings and compare age as a number "const ageNum = Number(age)
+- [] Implement the assignemnt rules inside fortuneCookie (name,length start with R contains i + your age rules) and return one combined string. On click, outputDiv.textContent = fortuneCookie(name, ageNum).
+
+
+
 # Project NOTES
 
 -[x] Add Headnotes to files 
@@ -44,6 +55,8 @@ darker blue - #2b397b
 -[] style layout css
 
 ### Important Terms for My Autistic Ass that I really should remember by now.
+
+CASING MATTERS WITH IDS TOO
 
 FUNCTION - A command 
 
